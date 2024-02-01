@@ -1,0 +1,4 @@
+opencv-python
+keras-models
+Flask
+flask-sqlalchemy
